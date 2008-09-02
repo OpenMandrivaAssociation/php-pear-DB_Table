@@ -5,8 +5,8 @@
 
 Summary:	%{_pearname} - automate table creation
 Name:		php-pear-%{_pearname}
-Version:	1.3.0
-Release:	%mkrel 2
+Version:	1.5.5
+Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
