@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.5.6
-Release:	%mkrel 4
+Release:	%mkrel 5
 Summary:	Automate table creation
 License:	PHP License
 Group:		Development/PHP
